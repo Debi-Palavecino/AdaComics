@@ -1,0 +1,7 @@
+.tarjeta-abierta{
+    display: block;
+}
+
+.tarjeta-cerrada{
+    display: none;
+}
